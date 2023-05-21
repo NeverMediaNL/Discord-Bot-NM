@@ -108,11 +108,11 @@ npm run add-dev YOUR_ID
 [version-url]: https://github.com/brblacky/WaveMusic
 [contributors-shield]: https://img.shields.io/github/contributors/DamianICT/Discord-Bot-NM.svg?style=for-the-badge
 [contributors-url]: https://github.com/DamianICT/Discord-Bot-NM/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DamianICT-NM/Discord-Bot.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/DamianICT/Discord-Bot-NM.svg?style=for-the-badge
 [forks-url]: https://github.com/DamianICT/Discord-Bot-NM/network/members
-[stars-shield]: https://img.shields.io/github/stars/DamianICT-NM/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/DamianICT-NM/Discord-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DamianICT-NM/Discord-Bot.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/DamianICT/Discord-Bot-NM.svg?style=for-the-badge
+[stars-url]: https://github.com/DamianICT/Discord-Bot-NM/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DamianICT/Discord-Bot-NM.svg?style=for-the-badge
 [issues-url]: https://github.com/DamianICT/Discord-Bot-NM/issues
-[license-shield]: https://img.shields.io/github/license/DamianICT-NM/Discord-Bot.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/DamianICT/Discord-Bot-NM.svg?style=for-the-badge
 [license-url]: https://github.com/DamianICT/Discord-Bot-NM/blob/master/LICENSE
